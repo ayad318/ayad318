@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Ayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayad318&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayad318&theme=green-nur&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 **ayad318/ayad318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
